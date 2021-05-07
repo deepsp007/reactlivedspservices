@@ -98,9 +98,8 @@ const Contact = () => {
             <h1 className="text-center my-3">You can contact our talented developer directly</h1>
                     <div className="container-fluid">
                         <div className="row">
-                           
-
-                                <div className="row">
+                    
+                                <div className="row gy-3">
                                     
                                     <CardDetails title="Krsihna" desc="This is krishna very talented web developer.I can help you in every your problem regarding the web developement although i am very chutiya can not learn anything but i can teach you and have talent of taking everything granted and procastinated." image={kris} />
 
