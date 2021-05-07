@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "4bf226b69f2f2e55afba",
+    "revision": "2e3aed5f348017166e98",
     "url": "/reactlivedspservices/static/css/main.3ba5317f.chunk.css"
   },
   {
-    "revision": "4bf226b69f2f2e55afba",
-    "url": "/reactlivedspservices/static/js/main.7924eb22.chunk.js"
+    "revision": "2e3aed5f348017166e98",
+    "url": "/reactlivedspservices/static/js/main.051611bf.chunk.js"
   },
   {
     "revision": "a76e3926bc7b05825602",
@@ -60,7 +60,7 @@ self.__precacheManifest = [
     "url": "/reactlivedspservices/static/media/banty.cb2b3744.jpeg"
   },
   {
-    "revision": "e2ca752c78de2797f79eff353adda901",
+    "revision": "fbde29b60febe00a9b17dc92407d0ea0",
     "url": "/reactlivedspservices/index.html"
   }
 ];
